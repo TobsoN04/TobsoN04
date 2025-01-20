@@ -1,10 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-
-<p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MY%20NAME%20IS%20TOBIAS%20SOUZA;I'M%2020%20YEARS%20OLD;INDIE%20GAME%20DEVELOPER; PROGRAMMER%20;I'M%20FROM%20BRAZIL;COMPUTER%20ENGINEERING%20STUDENT;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=500&height=45&color=20C20E&vCenter=true&pause=500&size=30" /></a>
-</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TobsoN04&bg_color=0d1117&color=483D8B&line=4B0082&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -15,7 +8,7 @@
 
 <div align="center">
   
-  <h5 align="center">Connect with me <img src="https://github.com/TobsoN04/TobsoN04/assets/100490271/130f9799-a49c-4f0f-ac93-223604053025" width="60px"> </h5> 
+  <h5 align="center">Connect with me  </h5> 
 </div>
 
 <div align="center">
@@ -29,6 +22,7 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%2300599C.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 
