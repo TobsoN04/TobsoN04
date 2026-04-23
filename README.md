@@ -47,13 +47,7 @@
 
 ### About me:
 
-Passionate about evolution and technology, I am currently studying Computer Engineering at Estácio in Belém/PA. I focus on game dev but my current goal is to research AI tech. In the future, I plan to achieve a Master's in Artificial Intelligence and Game Development.
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{TobsoN04}/count.svg" /></p> 
-<br>
-</div>
+Passionate about evolution and technology, I am currently studying Computer Engineering at Estácio in Belém/PA. I focus on game dev but my current goal is to research AI tech. In the future, I plan to achieve a Master's in Applied Computing.
 
 <picture>
   <source
